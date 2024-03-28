@@ -5,6 +5,3 @@
 <img src = "https://github.com/RAWAN3830/media_booster/assets/138647473/e62b351c-511f-4b87-adb3-9be4c0340f26" height="500"/>
 <img src = "https://github.com/RAWAN3830/media_booster/assets/138647473/973406fe-30c6-4aba-84a2-32d83c630985" height="500"/>
 <img src = "https://github.com/RAWAN3830/media_booster/assets/138647473/2e098ef5-ad29-484d-b68c-ca49c74723d0" height="500"/>
-<video height="500" autoplay>
-  <source src="recording.mp4" type="video/mp4">
-</video>
